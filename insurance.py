@@ -201,7 +201,7 @@ def predict_charges(age, sex, bmi, children, smoker, region):
 # ══════════════════════════════════════════════════════════════
 st.markdown("""
 <div class="hero">
-  <h1>🏥 Insurance Charges Predictor</h1>
+  <h1>🏥 Insurance Charges Predictor By Srikrushna</h1>
   <p>Machine-learning powered cost estimation · trains automatically on every run</p>
 </div>
 """, unsafe_allow_html=True)
